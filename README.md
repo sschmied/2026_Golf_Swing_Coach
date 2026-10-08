@@ -1,2 +1,10 @@
-# 2026_Golf_Swing_Coach
-An AI Golf Swing Coach from the team who brought you the Surfing Pop Up Coach.
+# Golf Swing Coach
+
+Swing tempo and technique analysis, with a Live Range Challenge, from **Schmied Research And Development Pty Ltd**.
+
+*Seeking only peace and friendship, to teach if we are called upon, to be taught if we are fortunate.*
+
+Open the app link, then install it from your browser (Chrome, Edge or Android) or use Share, Add to Home Screen (iPhone and iPad).
+Your videos and camera images are analysed on your own device and are never uploaded.
+
+For information: Dr Steven Schmied, sschmie@tpg.com.au, Mob. +61 418 513 890
